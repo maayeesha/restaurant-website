@@ -1,0 +1,111 @@
+.jazz-shadow-area
+{
+    box-shadow: 10px 10px 20px  pink;
+    border: rgb(136, 106, 136);
+    border-radius: 50px;
+    border-style: double;
+    margin:1%;
+    text-align: center;
+    margin-top: 10px;
+}
+body
+{
+    margin: 0px;
+    color: #363636;
+}
+h3
+{
+    text-align: center;
+}
+h1
+{
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    color: orangered;
+}
+.linked-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(pink,purple);
+    color: white;
+    font-weight: 400;
+    border-radius: 25px;
+    padding: 2%;
+}
+.adjacent-container
+{
+    display: flex;
+
+}
+.half-space
+{
+  font-size: 180%;
+  width: 50%;
+  padding: 7%;
+}
+.half-space img
+{
+    width: 90%;
+    padding: 2%;
+}
+.highlighted-texts
+{
+    color:tomato;
+    font-size: 200%;
+    white-space: nowrap;
+}
+.about-me
+{
+    background-image: url(cafe-images/Frame.jpg);
+    background-repeat: round;
+}
+.recipe-area
+{
+    width: 50%;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px grey;
+    border: 10px;
+}
+.recipe-area img
+{
+    width: 100%;
+    padding: 0%;
+}
+#logo img
+{
+    width: 125px;
+    margin-top: 1%;
+}
+#heading
+{
+    margin-top: 0px;
+}
+footer
+{
+    text-align: center;
+    background-color: #141516;
+    color: tomato;
+    padding: 2%;
+    font-size: 30px;
+}
+small{
+    font-size: 20px;
+    color: rgb(148, 170, 50);
+    color: wheat;
+}
+span{
+    color: purple;
+}
+a{
+    color: purple;
+    font-size: 30px;
+    text-decoration: none;
+}
+#news-section
+{
+   border: solid tomato;
+   margin-bottom: 50px;
+}
